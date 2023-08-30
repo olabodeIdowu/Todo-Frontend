@@ -1,0 +1,85 @@
+# Todo List available cabins
+
+Table of Contents
+_ Project Name
+_ Table of Contents
+_ Description
+_ Technologies Used
+_ Features
+_ Getting Started
+_ Prerequisites
+_ Installation
+_ Configuration
+_ Usage
+_ Deployment
+_ Contributing
+_ License
+_ Acknowledgments
+
+    Description
+
+This Todo app app users to upload cabins for rent. and users can create , edit and also delete cabins
+
+    Technologies Used
+
+List the core technologies and libraries/frameworks used in your project, such as:
+
+- Frontend: React, React Router.
+- Backend: Node.js, Express.js.
+- Database: MongoDB, Mongoose, etc.
+- Deployment: Railway.
+
+Features
+Describe the key features of your application. What can users do with it? For example:
+
+- User registration and authentication.
+- Create, update, delete tasks.
+- Task filtering and sorting.
+- Responsive design for various devices.
+  Getting Started
+  Provide instructions for setting up and running the project locally. Include any prerequisites and installation steps.
+  Prerequisites
+  List any software, tools, or dependencies that users need to install before running your app. For example:
+- Node.js
+- MongoDB
+- Railway CLI (for deployment)
+  Installation
+  Explain how to install your project. Include commands to clone the repository and install dependencies. For example:
+  bash
+
+Copy code
+
+# Clone the repository
+
+git clone https://github.com/olabodeIdowu/Todo-Backend.git
+git clone https://github.com/olabodeIdowu/Todo-Frontend.git
+
+# Navigate to the project directory
+
+cd your-project
+
+# Install dependencies for the server
+
+npm install
+
+# Navigate to the client directory
+
+cd client
+
+# Install dependencies for the client
+
+npm install
+
+        Configuration
+
+- Run the development server: npm run dev
+- Access the app in your web browser: http://localhost:3000
+
+          Deployment
+
+* Use Railway CLI to deploy the frontend to Railway's servers.
+* Configure environment variables on Railway to match those used in the backend.
+
+        Acknowledgments
+
+  Third-party libraries, such as react query and documentation like Axios were of great help.
